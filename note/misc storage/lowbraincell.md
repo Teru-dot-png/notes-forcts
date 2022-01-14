@@ -9,8 +9,8 @@
 - [ ] The Ascent
 - [ ] asstroneer
 - [ ] wargroove
-- [ ] made in abyss(FINISHED)
-- [ ] UNSIGHTED(FINISHED?)
-- [ ] Lupin III: The First(finished)
+- [x] made in abyss(FINISHED)
+- [x] UNSIGHTED(FINISHED?)
+- [x] Lupin III: The First(finished)
 - [ ] legendary tale
 - [ ] stelarris
