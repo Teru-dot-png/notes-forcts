@@ -4,4 +4,6 @@ days to study on a week  for the [[Computer science cs50]] havord course
 - [ ] Sunday
 - [ ] Monday
 - [ ] Tuesday
-- [ ] 
+- [ ] Wensday
+- [ ] Friday
+- [ ] Satur
