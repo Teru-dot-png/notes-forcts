@@ -1,1 +1,1 @@
-# Days to st
+# Days to study
