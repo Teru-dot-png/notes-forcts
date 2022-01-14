@@ -3,4 +3,5 @@ LIST
 - straight
 - lesbina
 
-- [] crazy man
+- [x] sex tails
+- [x] make him happy
