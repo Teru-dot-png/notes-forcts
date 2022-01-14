@@ -7,9 +7,11 @@
         "id": "f9260e6e9eb2231a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220114161845.png"
+            "file": "Coding/Untitled.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220114161845.png",
+                "file": "Coding/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +97,9 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
-    "Pasted image 20220114161845.png",
+    "Coding/Untitled.md",
     "amazing.md",
-    "united.md"
+    "united.md",
+    "Pasted image 20220114161845.png"
   ]
 }
