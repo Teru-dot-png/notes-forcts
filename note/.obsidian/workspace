@@ -7,9 +7,17 @@
         "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "38041cc6ec768483",
+        "type": "leaf",
+        "state": {
           "type": "image",
           "state": {
-            "file": "Coding/Felix notes/IMG_20220111_021336_875.jpg"
+            "file": "Coding/Felix notes/IMG_20220111_021253_549.jpg"
           }
         }
       }
@@ -75,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Felix notes/IMG_20220111_021336_875.jpg",
+                "file": "Coding/Felix notes/IMG_20220111_021253_549.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d98552afacc96fa",
+  "active": "38041cc6ec768483",
   "lastOpenFiles": [
-    "Coding/Felix notes/IMG_20220111_021336_875.jpg",
     "Coding/Felix notes/IMG_20220111_021253_549.jpg",
+    "Coding/Felix notes/IMG_20220111_021336_875.jpg",
     "Coding/Felix notes/IMG_20220111_021205_109.jpg",
     "Coding/Felix notes/Felix's Personal Motivation Corner.md",
     "Coding/Felix notes/FELITO.md",
