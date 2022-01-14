@@ -10,5 +10,5 @@
 https://www.youtube.com/embed/1tnj3UCkuxU
 
 ```html
-<iframe src="INSERT YOUR URL HERE"></iframe>
+<iframe src="https://www.youtube.com/embed/1tnj3UCkuxU"></iframe>
 ```
