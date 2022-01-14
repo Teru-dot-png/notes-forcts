@@ -1,4 +1,4 @@
-borderlands
+- borderlands
 you gonna play gamin seat omori
 lobotomy corporation gamin seats
 god eater 2
@@ -11,6 +11,6 @@ asstroneer
 wargroove
 made in abyss(FINISHED)
 UNSIGHTED(FINISHED?)
-Lupin III: The First
+Lupin III: The First(finished)
 legendary tale
 stelarris
