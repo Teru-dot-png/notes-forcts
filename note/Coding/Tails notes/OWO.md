@@ -1,4 +1,4 @@
-UWU
+UWu
 
 ```mermaid
 graph TD
