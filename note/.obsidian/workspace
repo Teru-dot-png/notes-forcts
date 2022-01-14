@@ -7,11 +7,9 @@
         "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Coding/Felix notes/Felix's Personal Motivation Corner.md",
-            "mode": "source",
-            "source": false
+            "file": "Coding/Felix notes/IMG_20220111_021336_875.jpg"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Felix notes/Felix's Personal Motivation Corner.md",
+                "file": "Coding/Felix notes/IMG_20220111_021336_875.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +95,14 @@
   },
   "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "Coding/Felix notes/Felix's Personal Motivation Corner.md",
-    "Coding/Felix notes/IMG_20220111_021205_109.jpg",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/Felix notes/FELITO.md",
     "Coding/Felix notes/IMG_20220111_021336_875.jpg",
     "Coding/Felix notes/IMG_20220111_021253_549.jpg",
-    "Coding/colab notes/Computer science cs50.md",
+    "Coding/Felix notes/IMG_20220111_021205_109.jpg",
+    "Coding/Felix notes/Felix's Personal Motivation Corner.md",
+    "Coding/Felix notes/FELITO.md",
     "Coding/colab notes/study time when.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+    "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/TODO.md",
     "Coding/Tails notes/OWO.md"
   ]
