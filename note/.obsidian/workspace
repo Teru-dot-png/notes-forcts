@@ -7,11 +7,9 @@
         "id": "f9260e6e9eb2231a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "video",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
+            "file": "GWULgyIqW1.mp4"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GWULgyIqW1.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +95,9 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "GWULgyIqW1.mp4",
+    "FI_oJ6eaAAIjj9H.png",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20220114161845.png",
     "united.md",
     "amazing.md"
