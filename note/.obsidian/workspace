@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9260e6e9eb2231a",
+        "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1fb87d46a1c8241b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Coding/Tails notes/OWO.md",
             "mode": "source",
             "source": false
           }
@@ -73,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299
   },
   "right": {
     "id": "7b540c1c6c0d0dff",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "united.md",
+                "file": "Coding/Tails notes/OWO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +95,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9260e6e9eb2231a",
+  "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "united.md",
-    "conflict-files-obsidian-git.md",
+    "Coding/Tails notes/OWO.md",
     "amazing.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+    "conflict-files-obsidian-git.md",
+    "united.md",
     "Elmo Stare.mp4",
     "FI_oJ6eaAAIjj9H.png",
     "GWULgyIqW1.mp4",
