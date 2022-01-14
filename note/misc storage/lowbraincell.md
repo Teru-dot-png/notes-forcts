@@ -16,4 +16,3 @@
 - [ ] stelarris
 - [ ] vrchat
 - [ ] monsterhunter rise
-- [ ] 
