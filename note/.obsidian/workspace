@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+            "file": "Coding/colab notes/Computer science cs50.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+                "file": "Coding/colab notes/Computer science cs50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "1c9a25c07a359066",
   "lastOpenFiles": [
+    "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/TODO.md",
@@ -117,7 +118,6 @@
     "Coding/Tails notes/OWO.md",
     "Coding/Felix notes/Felix's Personal Motivation Corner.md",
     "Coding/Felix notes/IMG_20220111_021336_875.jpg",
-    "Coding/Felix notes/IMG_20220111_021205_109.jpg",
-    "Coding/Felix notes/IMG_20220111_021253_549.jpg"
+    "Coding/Felix notes/IMG_20220111_021205_109.jpg"
   ]
 }
