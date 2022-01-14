@@ -7,12 +7,8 @@
         "id": "d633ef640a0e64ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Coding/colab notes/study time when.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/study time when.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +92,10 @@
   },
   "active": "d633ef640a0e64ed",
   "lastOpenFiles": [
-    "Coding/colab notes/study time when.md",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20220114170351.png",
+    "Coding/colab notes/study time when.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/Felix notes/IMG_20220111_021253_549.jpg",
     "Coding/Felix notes/IMG_20220111_021336_875.jpg",
     "Coding/Felix notes/IMG_20220111_021205_109.jpg",
