@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/OWO.md",
+            "file": "Coding/Felix notes/FELITO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/OWO.md",
+                "file": "Coding/Felix notes/FELITO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "7c1d301c4a140b9a",
   "lastOpenFiles": [
-    "Coding/Tails notes/OWO.md",
     "Coding/Felix notes/FELITO.md",
+    "Coding/Tails notes/OWO.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "conflict-files-obsidian-git.md",
     "united.md",
