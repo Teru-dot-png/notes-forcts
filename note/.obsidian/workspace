@@ -7,9 +7,11 @@
         "id": "f9260e6e9eb2231a",
         "type": "leaf",
         "state": {
-          "type": "video",
+          "type": "markdown",
           "state": {
-            "file": "GWULgyIqW1.mp4"
+            "file": "united.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GWULgyIqW1.mp4",
+                "file": "united.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +97,11 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
+    "united.md",
     "GWULgyIqW1.mp4",
     "FI_oJ6eaAAIjj9H.png",
     "conflict-files-obsidian-git.md",
     "Pasted image 20220114161845.png",
-    "united.md",
     "amazing.md"
   ]
 }
