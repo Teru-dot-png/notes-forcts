@@ -7,9 +7,11 @@
         "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220114170351.png"
+            "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220114170351.png",
+                "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -95,12 +97,12 @@
   },
   "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "Pasted image 20220114170351.png",
-    "Coding/colab notes/study time when.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/Tails notes/OWO.md",
+    "Pasted image 20220114170351.png",
     "conflict-files-obsidian-git.md",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+    "Coding/colab notes/study time when.md",
     "Coding/colab notes/TODO.md",
     "Coding/Felix notes/FELITO.md",
     "Coding/Felix notes/Felix's Personal Motivation Corner.md",
