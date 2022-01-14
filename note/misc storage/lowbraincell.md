@@ -14,4 +14,5 @@
 - [x] Lupin III: The First(finished)
 - [ ] legendary tale
 - [ ] stelarris
-- [ ] 
+- [ ] vrchat
+- [ ] monst
