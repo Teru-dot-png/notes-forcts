@@ -16,6 +16,30 @@
         }
       },
       {
+        "id": "8cc58d7c6f129381",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coding/colab notes/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2cd8469d6cb3b33e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "c357ba268474a4c1",
         "type": "leaf",
         "state": {
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/OWO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d98552afacc96fa",
+  "active": "2cd8469d6cb3b33e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Coding/colab notes/Untitled.md",
     "Coding/Tails notes/OWO.md",
     "Coding/colab notes/TODO.md",
     "GWULgyIqW1.mp4",
     "Pasted image 20220114161845.png",
     "FI_oJ6eaAAIjj9H.png",
-    "conflict-files-obsidian-git.md",
     "Elmo Stare.mp4",
     "amazing.md",
-    "Coding/colab notes/Untitled.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md"
   ]
 }
