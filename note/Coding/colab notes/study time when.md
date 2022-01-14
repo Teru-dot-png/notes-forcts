@@ -1,3 +1,3 @@
 # Days to study
-![[p]]
-- [ ] 
+![[Pasted image 20220114170351.png]]
+	- [ 
