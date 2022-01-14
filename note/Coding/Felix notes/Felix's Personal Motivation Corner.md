@@ -1,2 +1,3 @@
 # Femboy Supremacy
-### Sponsored by Feli
+### Sponsored by Felix's favorite She/He
+
