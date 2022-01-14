@@ -12,6 +12,18 @@
         }
       },
       {
+        "id": "d633ef640a0e64ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "38041cc6ec768483",
         "type": "leaf",
         "state": {
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220114170351.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +113,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38041cc6ec768483",
+  "active": "d633ef640a0e64ed",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Pasted image 20220114170351.png",
     "Coding/Felix notes/IMG_20220111_021253_549.jpg",
     "Coding/Felix notes/IMG_20220111_021336_875.jpg",
@@ -111,7 +124,6 @@
     "Coding/Felix notes/FELITO.md",
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/colab notes/Computer science cs50.md",
-    "Coding/colab notes/TODO.md"
+    "Coding/colab notes/Computer science cs50.md"
   ]
 }
