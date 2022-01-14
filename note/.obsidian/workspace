@@ -17,7 +17,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Coding/Felix notes/IMG_20220111_021253_549.jpg"
+            "file": "Pasted image 20220114170351.png"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Felix notes/IMG_20220111_021253_549.jpg",
+                "file": "Pasted image 20220114170351.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "38041cc6ec768483",
   "lastOpenFiles": [
+    "Pasted image 20220114170351.png",
     "Coding/Felix notes/IMG_20220111_021253_549.jpg",
     "Coding/Felix notes/IMG_20220111_021336_875.jpg",
     "Coding/Felix notes/IMG_20220111_021205_109.jpg",
@@ -111,7 +112,6 @@
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/Computer science cs50.md",
-    "Coding/colab notes/TODO.md",
-    "Coding/Tails notes/OWO.md"
+    "Coding/colab notes/TODO.md"
   ]
 }
