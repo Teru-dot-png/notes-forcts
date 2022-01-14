@@ -4,17 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f9260e6e9eb2231a",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Pasted image 20220114161845.png"
-          }
-        }
-      },
-      {
-        "id": "907d175973951a07",
+        "id": "7c1d301c4a140b9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,12 +95,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "907d175973951a07",
+  "active": "7c1d301c4a140b9a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "united.md",
     "Pasted image 20220114161845.png",
     "amazing.md",
-    "united.md",
     "Coding/Untitled.md"
   ]
 }
