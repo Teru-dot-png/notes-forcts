@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "amazing.md",
+            "file": "united.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amazing.md",
+                "file": "united.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,12 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
-    "amazing.md",
+    "united.md",
     "conflict-files-obsidian-git.md",
+    "amazing.md",
     "Elmo Stare.mp4",
     "FI_oJ6eaAAIjj9H.png",
     "GWULgyIqW1.mp4",
-    "united.md",
     "Pasted image 20220114161845.png"
   ]
 }
