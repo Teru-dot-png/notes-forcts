@@ -14,42 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "9de5740b950542c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c8dcb17c52333f62",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5a168d99e4b1ea07",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -131,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a168d99e4b1ea07",
+  "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
     "united.md",
     "conflict-files-obsidian-git.md",
