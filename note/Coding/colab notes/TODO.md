@@ -3,3 +3,4 @@ LIST
 - straight
 - lesbina
 
+- [] crazy man
