@@ -1,1 +1,4 @@
 LIST
+- gay
+- straight
+- lesbina

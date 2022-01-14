@@ -7,9 +7,11 @@
         "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "FI_oJ6eaAAIjj9H.png"
+            "file": "Coding/colab notes/TODO.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Coding/colab notes/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c357ba268474a4c1",
+  "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Coding/colab notes/TODO.md",
+    "GWULgyIqW1.mp4",
+    "Pasted image 20220114161845.png",
     "FI_oJ6eaAAIjj9H.png",
+    "conflict-files-obsidian-git.md",
     "Elmo Stare.mp4",
     "amazing.md",
     "Coding/colab notes/Untitled.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/Felix notes/FELITO.md",
-    "Coding/Tails notes/OWO.md",
-    "united.md",
-    "GWULgyIqW1.mp4"
+    "Coding/Felix notes/FELITO.md"
   ]
 }
