@@ -7,12 +7,8 @@
         "id": "4d98552afacc96fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "united.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +92,10 @@
   },
   "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "united.md",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "conflict-files-obsidian-git.md",
     "amazing.md",
+    "united.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Elmo Stare.mp4",
     "FI_oJ6eaAAIjj9H.png",
     "GWULgyIqW1.mp4",
