@@ -15,4 +15,5 @@
 - [ ] legendary tale
 - [ ] stelarris
 - [ ] vrchat
-- [ ] monst
+- [ ] monsterhunter rise
+- [ ] 
