@@ -5,7 +5,7 @@ we will be studying 3 days a week
 - [x] Sunday
 - [x] Monday
 - [ ] Tuesday
-- [ ] Wensday
-- [ ] thu
+- [ ] Whensday
+- [ ] Thursday
 - [ ] Friday
 - [ ] Saturday
