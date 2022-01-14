@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/OWO.md",
+            "file": "Coding/colab notes/study time when.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/OWO.md",
+                "file": "Coding/colab notes/study time when.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "Coding/Tails notes/OWO.md",
-    "Coding/Felix notes/FELITO.md",
-    "Pasted image 20220114170351.png",
     "Coding/colab notes/study time when.md",
+    "Coding/Tails notes/OWO.md",
+    "Pasted image 20220114170351.png",
+    "Coding/Felix notes/FELITO.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/Computer science cs50.md",
     "Recording 20220114145712.webm",
