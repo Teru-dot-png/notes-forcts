@@ -34,15 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-- name: Discord Commits
-  # You may pin to the exact commit or the version.
-  # uses: Sniddl/discord-commits@2da985f8398f434a0aef33d133b13a6b22e49c12
-  uses: Sniddl/discord-commits@v1.3
-  with:
-    # discord webhook url without /github
-    webhook: https://canary.discord.com/api/webhooks/931620492836765796/16_vq1me39wphA2LiML-Mcm8l50d5d59hX28XlJxfJEh-HydMr4IiNyA5V_T6ddXUn0b
-    # A general message that is displayed for all commits.
-    message: # optional
-    # JSON string that accepts double braces for templating.
-    embed: # optional
