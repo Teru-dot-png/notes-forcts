@@ -7,11 +7,9 @@
         "id": "f9260e6e9eb2231a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "united.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220114161845.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "united.md",
+                "file": "Pasted image 20220114161845.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,8 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
-    "united.md",
-    "amazing.md"
+    "Pasted image 20220114161845.png",
+    "amazing.md",
+    "united.md"
   ]
 }
