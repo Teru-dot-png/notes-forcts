@@ -7,12 +7,8 @@
         "id": "f9260e6e9eb2231a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "amazing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amazing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +92,7 @@
   },
   "active": "f9260e6e9eb2231a",
   "lastOpenFiles": [
-    "amazing.md"
+    "amazing.md",
+    "united.md"
   ]
 }
