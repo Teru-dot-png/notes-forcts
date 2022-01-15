@@ -13,7 +13,8 @@
 - [x] UNSIGHTED(FINISHED?)
 - [x] Lupin III: The First(finished)
 - [ ] legendary tale
-- [ ] stelarris
+- [ ] stelarris -maybe with adrian
+- [ ] -
 - [ ] vrchat
 - [ ] monsterhunter rise
-- [ ] 
+- [ ] thunder
