@@ -1,4 +1,6 @@
-das# Todo
+s
+
+# Todo
 - [ ] Watch Week 0's lecture. 
 	- [ ] Submit Problem Set 0. 
 - [ ] Watch Week 1's lecture and, optionally, shorts. 
