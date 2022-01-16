@@ -21,5 +21,4 @@ else
     end
 
     its not what you want ultimately but make some progress
-    reuse your code and functions to make it more optimized
-    
+ reuse your code and functions to make it more optimized
