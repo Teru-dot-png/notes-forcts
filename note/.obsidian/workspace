@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "14ff4a8812dcf9f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/todo on tails's scrach game.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +107,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "422394c5a0aa86ac",
+  "active": "14ff4a8812dcf9f9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/Tails notes/tails' notes.md",
-    "conflict-files-obsidian-git.md",
     "Coding/colab notes/cs50 lec 0/intro summary.md",
     "Coding/colab notes/TODO.md",
     "Coding/colab notes/study time when.md",
