@@ -1,17 +1,25 @@
-uWu
+programming is problem solving
 
-```mermaid
-graph TD
+(128)(64)(32)(16)(8)(4)(2)(1) binary
 
- A[Discord Call] --> B[I compliment Tails]
+pseudocode
+formalizing code by creating a method on your head
+and dividing the problem in steps
+EG: 
 
- B --> C{Either He}
+pick up phonebook
+open middle of phonebook
+if person is on middle
+    call person
+else if person is earlier in book 
+    open to middle left half of book
+    go back to line 3
+else if person is later in book 
+    open to middle right half of book
+    go back to line 3
+else
+    end
 
- C --> D[Turns into a black orb]
-
- C --> E[Becomes assertive and compliments me back]
-
- D --> F(Becomes shy no matter what)
-
- E --> F
- ```
+    its not what you want ultimately but make some progress
+    reuse your code and functions to make it more optimized
+    
