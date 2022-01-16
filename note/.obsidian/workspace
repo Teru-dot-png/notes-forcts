@@ -7,8 +7,12 @@
         "id": "0320025f6d637065",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Coding/Tails notes/OWO.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding/Tails notes/OWO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +97,12 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/Tails notes/OWO.md",
     "Coding/Felix notes/FELITO.md",
+    "Coding/colab notes/TODO.md",
+    "Coding/colab notes/study time when.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/colab notes/study time when.md",
-    "Coding/colab notes/TODO.md",
-    "Coding/Tails notes/OWO.md",
     "Untitled.md",
     "misc storage/lowbraincell.md",
     "conflict-files-obsidian-git.md",
