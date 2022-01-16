@@ -1,4 +1,4 @@
-limnks[[TODO]]
+links:[[TODO]] [[str]]
 
 # Todo
 - [ ] Watch Week 0's lecture. 
