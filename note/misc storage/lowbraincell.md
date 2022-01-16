@@ -1,3 +1,6 @@
+tags:
+
+
 - [ ] borderlands
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
