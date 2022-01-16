@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/colab notes/cs50 lec 0/intro summary.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/cs50 lec 0/intro summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "Coding/colab notes/cs50 lec 0/intro summary.md",
     "conflict-files-obsidian-git.md",
+    "Coding/colab notes/cs50 lec 0/intro summary.md",
     "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/colab notes/TODO.md",
     "Coding/colab notes/study time when.md",
