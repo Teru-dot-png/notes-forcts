@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "94f63925072a1707",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/cs50 lec 0/intro summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0320025f6d637065",
+  "active": "94f63925072a1707",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Coding/colab notes/cs50 lec 0/intro summary.md",
     "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/colab notes/TODO.md",
@@ -105,7 +118,6 @@
     "Coding/Tails notes/OWO.md",
     "Coding/Felix notes/FELITO.md",
     "Coding/colab notes/Computer science cs50.md",
-    "Untitled.md",
-    "misc storage/lowbraincell.md"
+    "Untitled.md"
   ]
 }
