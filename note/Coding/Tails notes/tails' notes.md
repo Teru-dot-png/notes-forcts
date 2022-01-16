@@ -1,8 +1,9 @@
+
 programming is problem solving
 
 (128)(64)(32)(16)(8)(4)(2)(1) binary
 
-pseudocode
+# pseudocode
 formalizing code by creating a method on your head
 and dividing the problem in steps
 EG: 
