@@ -24,4 +24,4 @@ EG:
 	//its not what you want ultimately but make some progress
 	 //reuse your code and functions to make it more optimized
 
-next thin on 
+next thin on what to do is create a scrach program
