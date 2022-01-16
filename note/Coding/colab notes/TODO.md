@@ -1,4 +1,4 @@
-links:[[TODO]] [[str]]
+links:[[TODO]] [[study time when]]
 
 # Todo
 - [ ] Watch Week 0's lecture. 
