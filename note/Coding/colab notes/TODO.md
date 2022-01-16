@@ -1,4 +1,4 @@
-s
+[[TODO]]
 
 # Todo
 - [ ] Watch Week 0's lecture. 
