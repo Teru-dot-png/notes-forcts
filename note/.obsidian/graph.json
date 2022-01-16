@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "misc",
+      "query": "tag:misc",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1279
       }
     }
   ],
