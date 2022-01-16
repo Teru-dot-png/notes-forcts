@@ -5,3 +5,5 @@
     ![word "input", arrow into box, arrow out of box, word "output"](https://cs50.harvard.edu/x/2022/notes/0/input_output.png)
 -   To begin doing that, we’ll need a way to represent inputs and outputs, so we can store and work with information in a standardized way.
 -   To represent letters, all we need to do is decide how numbers map to letters. Some humans, many years ago, collectively decided on a standard mapping of numbers to letters.
+
+# what 
