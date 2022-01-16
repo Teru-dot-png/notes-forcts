@@ -12,13 +12,13 @@ EG:
 	if person is on middle
 	    call person
 	else if person is earlier in book 
-    open to middle left half of book
-    go back to line 3
-else if person is later in book 
-    open to middle right half of book
-    go back to line 3
-else
-    end
+	    open to middle left half of book
+	    go back to line 3
+	else if person is later in book 
+	    open to middle right half of book
+	    go back to line 3
+	else
+	    end
 	
-	its not what you want ultimately but make some progress
-	 reuse your code and functions to make it more optimized
+	//its not what you want ultimately but make some progress
+	 //reuse your code and functions to make it more optimized
