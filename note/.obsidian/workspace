@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
   },
   "active": "4d98552afacc96fa",
   "lastOpenFiles": [
-    "misc storage/lowbraincell.md",
-    "Coding/Felix notes/FELITO.md",
-    "Coding/Tails notes/OWO.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/TODO.md",
+    "Coding/Felix notes/FELITO.md",
+    "misc storage/lowbraincell.md",
+    "Coding/Tails notes/OWO.md",
     "Coding/colab notes/Computer science cs50.md",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Pasted image 20220114170351.png",
     "conflict-files-obsidian-git.md",
     "Coding/Felix notes/Felix's Personal Motivation Corner.md"
