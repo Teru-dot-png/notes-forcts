@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0320025f6d637065",
+        "id": "422394c5a0aa86ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0320025f6d637065",
+  "active": "422394c5a0aa86ac",
   "lastOpenFiles": [
     "Coding/Tails notes/todo on tails's scrach game.md",
-    "Coding/colab notes/TODO.md",
     "Coding/Tails notes/tails' notes.md",
-    "misc storage/lowbraincell.md",
-    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
-    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/colab notes/Computer science cs50.md",
-    "Pasted image 20220114170351.png",
     "conflict-files-obsidian-git.md",
-    "Coding/colab notes/study time when.md"
+    "Coding/colab notes/cs50 lec 0/intro summary.md",
+    "Coding/colab notes/TODO.md",
+    "Coding/colab notes/study time when.md",
+    "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
+    "Coding/Tails notes/OWO.md",
+    "Coding/Felix notes/FELITO.md",
+    "Coding/colab notes/Computer science cs50.md"
   ]
 }
