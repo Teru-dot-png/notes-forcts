@@ -1,4 +1,4 @@
-links: [[FELITO]] [[OWO]] [[Computer science cs50]]
+links: [[FELITO]] [[tails' notes]] [[Computer science cs50]]
 
 
 WE LEARNED?
