@@ -19,6 +19,6 @@ else if person is later in book
     go back to line 3
 else
     end
-
-    its not what you want ultimately but make some progress
- reuse your code and functions to make it more optimized
+	
+	its not what you want ultimately but make some progress
+	 reuse your code and functions to make it more optimized
