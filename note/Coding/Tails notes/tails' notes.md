@@ -7,11 +7,11 @@ formalizing code by creating a method on your head
 and dividing the problem in steps
 EG: 
 
-pick up phonebook
-open middle of phonebook
-if person is on middle
-    call person
-else if person is earlier in book 
+	pick up phonebook
+	open middle of phonebook
+	if person is on middle
+	    call person
+	else if person is earlier in book 
     open to middle left half of book
     go back to line 3
 else if person is later in book 
