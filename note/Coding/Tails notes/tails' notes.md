@@ -34,7 +34,7 @@ next thin on what to do is create a scrach program listed on [[todo on tails's s
 i learnt that there are many ways to do wall colission
 i also now know there should be many ways that one thing leaving me to many other limitations
 
-i learnt how to do walk code and dialog stuff and interacton on  a top down game
+i learnt how to do walk code and dialog stuff and interaction on a top down game
 still dont rly know how to do a better dialog skip but thats fine
 learnt some stuff about variables and how they function and booleans 
 i even did a little terminal inside the game! i made 
