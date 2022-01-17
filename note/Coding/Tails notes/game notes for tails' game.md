@@ -1,2 +1,2 @@
 #gameonlec0scrach 
-link: [[]]
+link: [[tails' notes]]
