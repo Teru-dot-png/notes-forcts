@@ -14,3 +14,4 @@ link: [[tails' notes]][[todo on tails's scrach game]]
 
 i need to fix the lists
 fix the terminal bugs
+add a "am i talking "
