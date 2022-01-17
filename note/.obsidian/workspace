@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "422394c5a0aa86ac",
+        "id": "0320025f6d637065",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/todo on tails's scrach game.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "14ff4a8812dcf9f9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Coding/Tails notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Coding/Tails notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14ff4a8812dcf9f9",
+  "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Coding/Tails notes/todo on tails's scrach game.md",
+    "Coding/Tails notes/Untitled.md",
     "Coding/Tails notes/tails' notes.md",
-    "Coding/colab notes/cs50 lec 0/intro summary.md",
+    "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/colab notes/TODO.md",
-    "Coding/colab notes/study time when.md",
+    "misc storage/lowbraincell.md",
+    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/Tails notes/OWO.md",
-    "Coding/Felix notes/FELITO.md",
-    "Coding/colab notes/Computer science cs50.md"
+    "Coding/colab notes/Computer science cs50.md",
+    "Pasted image 20220114170351.png",
+    "conflict-files-obsidian-git.md"
   ]
 }
