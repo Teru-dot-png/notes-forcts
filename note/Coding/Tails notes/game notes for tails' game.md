@@ -9,3 +9,7 @@ link: [[tails' notes]][[todo on tails's scrach game]]
 - [ ] how do i add difficulty and challange
 - [?] floor collision instead of whole wall
 - [ ] i need terminal in game
+
+
+
+i need to fix  t
