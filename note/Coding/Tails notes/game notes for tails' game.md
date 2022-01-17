@@ -1,2 +1,2 @@
 #gameonlec0scrach 
-link: [[tails' notes]][[]]
+link: [[tails' notes]][[todo on tails's scrach game]]
