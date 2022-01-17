@@ -8,4 +8,4 @@ how im goin to code in collisions
 how im going to make npcs
 how do i add difficulty and challange
 floor collision instead of whole wall
-i need terminal in ga
+i need terminal in game
