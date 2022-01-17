@@ -124,5 +124,5 @@
     
     -   But this program, written in a language called C, has lots of other syntax that keeps us from focusing on these core ideas.
 
-<
->
+,< les than
+,>
