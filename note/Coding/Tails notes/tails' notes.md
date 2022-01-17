@@ -40,3 +40,4 @@ learnt some stuff about variables and how they function and booleans
 i even did a little terminal inside the game! i made 
 
 ![[Pasted image 20220117203457.png]]
+
