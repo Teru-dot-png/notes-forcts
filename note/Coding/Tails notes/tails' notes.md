@@ -37,7 +37,7 @@ i also now know there should be many ways that one thing leaving me to many othe
 i learnt how to do walk code and dialog stuff and interaction on a top down game
 still dont rly know how to do a better dialog skip but thats fine
 learnt some stuff about variables and how they function and booleans and i think i know 
-how functions go on 
+how functions go on little wierd for me but theres many
 i even did a little terminal inside the game! i made 
 
 ![[Pasted image 20220117203457.png]]
