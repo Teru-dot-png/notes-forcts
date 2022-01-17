@@ -12,4 +12,4 @@ link: [[tails' notes]][[todo on tails's scrach game]]
 
 
 
-i need to fix  t
+i need to fix  the lists
