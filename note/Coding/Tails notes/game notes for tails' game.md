@@ -15,4 +15,4 @@ link: [[tails' notes]][[todo on tails's scrach game]]
 - [x] i need to fix the lists
 - [x] fix the terminal bugs
 - [x] add a "am i talking so you dont move"
-- [ ] simple tutorial
+- [x] simple tutorial
