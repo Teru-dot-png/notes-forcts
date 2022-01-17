@@ -38,3 +38,5 @@ i learnt how to do walk code and dialog stuff and interacton on  a top down game
 still dont rly know how to do a better dialog skip but thats fine
 learnt some stuff about variables and how they function and booleans 
 i even did a little terminal inside the game! i made 
+
+![[Pasted image 20220117203457.png]]
