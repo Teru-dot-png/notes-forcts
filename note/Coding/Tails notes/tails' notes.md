@@ -36,3 +36,4 @@ i also now know there should be many ways that one thing leaving me to many othe
 
 i learnt how to do walk code and dialog stuff and interacton on  a top down game
 still dont rly know how to do a better dialog skip but thats fine
+learnt 
