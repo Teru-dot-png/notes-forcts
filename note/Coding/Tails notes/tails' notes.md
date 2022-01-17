@@ -31,4 +31,5 @@ next thin on what to do is create a scrach program listed on [[todo on tails's s
 ,< less than
 ,> greater than
 
-i learnt that there are many ways to do wall
+i learnt that there are many ways to do wall colission
+i w
