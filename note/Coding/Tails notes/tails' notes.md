@@ -25,3 +25,8 @@ EG:
 	 //reuse your code and functions to make it more optimized
 
 next thin on what to do is create a scrach program listed on [[todo on tails's scrach game]]
+
+
+
+,< less than
+,> greater than
