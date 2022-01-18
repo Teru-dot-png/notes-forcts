@@ -21,4 +21,4 @@ tags: #misc
 - [ ] monsterhunter rise
 - [ ] thunder tier one
 - [ ] DONT STARVE T MADE IN ABYSS MODS
-- [ ] pantry and stocking wth gar
+- [ ] pantry and stocking wth garther belt
