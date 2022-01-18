@@ -7,7 +7,8 @@ sliat
 ```
 
 # //BTC
-```TailsIdsay#94
+```
+TailsIdsay#94
 TailsIdsay#93
 9&$K&o#n&oBa(n$!@$@
 221.232.220.41
@@ -31,6 +32,8 @@ root Chinsi
 
 
 # //BNKEML
+
+```
 Bu:Z0afykh7
 Bp:bwXK935xbwXK935x
 
