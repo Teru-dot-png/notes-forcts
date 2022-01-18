@@ -20,3 +20,5 @@ tags: #misc
 - [ ] vrchat
 - [ ] monsterhunter rise
 - [ ] thunder tier one
+- [ ] DONT STARVE T MADE IN ABYSS MODS
+- [ ] pantry and stocking wth garther belt
