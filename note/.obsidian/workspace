@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/game notes for tails' game.md",
+            "file": "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/game notes for tails' game.md",
+                "file": "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/Tails notes/todo on tails's scrach game.md",
-    "Coding/Tails notes/tails' notes.md",
     "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
+    "Coding/Tails notes/game notes for tails' game.md",
+    "Coding/Tails notes/tails' notes.md",
+    "Coding/Tails notes/todo on tails's scrach game.md",
     "conflict-files-obsidian-git.md",
     "Coding/colab notes/TODO.md",
     "misc storage/lowbraincell.md",
