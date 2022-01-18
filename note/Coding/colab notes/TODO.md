@@ -2,7 +2,7 @@ links:[[TODO]] [[study time when]]
 
 # Todo
 - [x] Watch Week 0's lecture. 
-	- [ ] Submit Problem Set 0. 
+	- [x] Submit Problem Set 0. 
 - [ ] Watch Week 1's lecture and, optionally, shorts. 
 	- [ ] Submit Problem Set 1. 
 - [ ] Watch Week 2's lecture and, optionally, shorts. 
