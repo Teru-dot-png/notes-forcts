@@ -11,12 +11,12 @@ TailsIdsay#93
 
 221.232.220.41
 163.87.38.80 33333
-//RedFox
+# //RedFox
 NotVUIII
 cb454ff9c739a0
 324B-985A-8ACF-5CE3
 
-//atk
+# //atk
 1.0.0.1
 root Chinsi
 
@@ -25,7 +25,7 @@ root Chinsi
 
 
 
-//BNKEML
+# //BNKEML
 Bu:Z0afykh7
 Bp:bwXK935xbwXK935x
 
