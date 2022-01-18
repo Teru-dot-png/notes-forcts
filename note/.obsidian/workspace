@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "misc storage/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "misc storage/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "Untitled.md",
+    "misc storage/Untitled.md",
     "misc storage/lowbraincell.md",
     "Coding/Felix notes/FELITO.md",
     "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
