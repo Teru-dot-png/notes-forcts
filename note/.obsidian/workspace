@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f1c3a4bd3af41811",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1c3a4bd3af41811",
+  "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
+    "Coding/colab notes/Computer science cs50.md",
     "misc storage/lowbraincell.md",
+    "conflict-files-obsidian-git.md",
     "misc storage/Week 0 Scratch Projects.md",
     "misc storage/GH.md",
     "Pasted image 20220117203457.png",
     "Pasted image 20220114170351.png",
     "Coding/Felix notes/FELITO.md",
-    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
-    "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md"
   ]
 }
