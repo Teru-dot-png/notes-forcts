@@ -7,7 +7,6 @@ sliat
 //BTC
 TailsIdsay#94
 TailsIdsay#93
-```
 9&$K&o#n&oBa(n$!@$@
 221.232.220.41
 163.87.38.80 33333
