@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/colab notes/TODO.md",
+            "file": "misc storage/lowbraincell.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/TODO.md",
+                "file": "misc storage/lowbraincell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "misc storage/lowbraincell.md",
     "Coding/colab notes/TODO.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/INTRO TO CODING WHAT DID WE LEARN.md",
@@ -105,7 +106,6 @@
     "misc storage/Week 0 Scratch Projects.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md",
-    "misc storage/lowbraincell.md"
+    "Coding/colab notes/cs50 lec 0/intro summary lec 0.md"
   ]
 }
