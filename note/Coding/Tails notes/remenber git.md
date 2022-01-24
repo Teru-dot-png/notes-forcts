@@ -1,3 +1,3 @@
 - i copied the repository on github on my documents tru git desktop
-- and added my notes inside making a 
+- and added my notes inside making a new note vault
 - after that i
