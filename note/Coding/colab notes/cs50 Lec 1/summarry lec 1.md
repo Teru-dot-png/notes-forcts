@@ -471,17 +471,17 @@
 ## [Conditionals, Boolean expressions](https://cs50.harvard.edu/x/2022/notes/1/#conditionals-boolean-expressions)
 
 -   In Scratch, we had conditional, or “if”, blocks, like:
-    ```
+    
     ifx<ythensayx is less than y
     
 -   In C, we similarly have:
-```
+
     
     if (x < y)
     {
         printf("x is less than y");
     }
-    ```
+    
     
     -   Notice that in C, we use `{` and `}` (as well as indentation) to indicate how lines of code should be nested.
     -   And even though `if` is followed by parentheses, it is not a function. We also don’t use semicolons after the conditionals.
