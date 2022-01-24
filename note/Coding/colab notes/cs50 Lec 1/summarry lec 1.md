@@ -472,7 +472,7 @@
 
 -   In Scratch, we had conditional, or “if”, blocks, like:
     
-    ifx<ythensayx is less than y
+    if x < y then say x is less than y
     
 -   In C, we similarly have:
 
