@@ -487,7 +487,7 @@
     -   And even though `if` is followed by parentheses, it is not a function. We also don’t use semicolons after the conditionals.
 -   We can have “if” and “else” conditions:
     
-    if x < y then say x is less than y else sayx is not less than y
+    if x < y then say x is less than y else say x is not less than y
     
     ```
     if (x < y)
