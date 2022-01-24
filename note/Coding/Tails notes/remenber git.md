@@ -1,1 +1,2 @@
-- i copied the repository on github on my desktop
+- i copied the repository on github on my desktop tru git desktop
+- and
