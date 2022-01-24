@@ -476,13 +476,12 @@
     
 -   In C, we similarly have:
 
-    
+```    
     if (x < y)
     {
         printf("x is less than y");
-    }
-    
-    
+    } 
+```    
     -   Notice that in C, we use `{` and `}` (as well as indentation) to indicate how lines of code should be nested.
     -   And even though `if` is followed by parentheses, it is not a function. We also don’t use semicolons after the conditionals.
 -   We can have “if” and “else” conditions:
