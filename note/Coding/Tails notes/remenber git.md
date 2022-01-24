@@ -1,2 +1,3 @@
 - i copied the repository on github on my desktop tru git desktop
-- and
+- and added my notes inside it
+- after that io
