@@ -42,7 +42,7 @@ i even did a little terminal inside the game! i made(tails)
 
 ![[Pasted image 20220117203457.png]]
 
-## [Types, format codes, operators](https://cs50.harvard.edu/x/2022/notes/1/#types-format-codes-operators)
+## Types, format codes, operators
 
 -   There are many data **types** we can use for our variables, which indicate to our program what type of data they represent:
     -   `bool`, a Boolean expression of either `true` or `false`
