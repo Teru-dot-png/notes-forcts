@@ -475,9 +475,8 @@
     ifx<ythensayx is less than y
     
 -   In C, we similarly have:
-
+```
     
-    ```
     if (x < y)
     {
         printf("x is less than y");
