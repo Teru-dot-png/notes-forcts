@@ -471,7 +471,7 @@
 ## [Conditionals, Boolean expressions](https://cs50.harvard.edu/x/2022/notes/1/#conditionals-boolean-expressions)
 
 -   In Scratch, we had conditional, or “if”, blocks, like:
-    
+    ``````
     ifx<ythensayx is less than y
     
 -   In C, we similarly have:
