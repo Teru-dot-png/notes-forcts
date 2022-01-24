@@ -1,3 +1,3 @@
-- i copied the repository on github on my desktop tru git desktop
-- and added my notes inside it
+- i copied the repository on github on my documents tru git desktop
+- and added my notes inside making a 
 - after that i
