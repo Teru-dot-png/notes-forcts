@@ -501,7 +501,7 @@
     
 -   And in C, we can use “else if”:
     
-    if x < y then say x is less than y else if x >ythensayx is greater than yelseifx=ythensayx is equal to y
+    if x < y then say x is less than y else if x > y then say x is greater than yelseifx=ythensayx is equal to y
     
     ```
     if (x < y)
