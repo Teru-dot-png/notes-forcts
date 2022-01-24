@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/remenber.md",
+            "file": "Coding/Tails notes/remenber git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/remenber.md",
+                "file": "Coding/Tails notes/remenber git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "Coding/Tails notes/remenber.md",
+    "Coding/Tails notes/remenber git.md",
     "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/Tails notes/notes on problem set 1.md",
