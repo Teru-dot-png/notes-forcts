@@ -1,1 +1,1 @@
-links:
+links:[[Computer science cs50]][[cs]]
