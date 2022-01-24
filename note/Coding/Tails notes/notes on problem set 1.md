@@ -1,1 +1,1 @@
-links:[[Computer science cs50]][[cs]]
+links:[[Computer science cs50]][[cs50]]
