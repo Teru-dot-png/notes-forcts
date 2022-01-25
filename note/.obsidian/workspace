@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/my as is dumb/Untitled.md",
+            "file": "Coding/Tails notes/my as is dumb/note.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/my as is dumb/Untitled.md",
+                "file": "Coding/Tails notes/my as is dumb/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "Coding/Tails notes/my as is dumb/Untitled.md",
+    "Coding/Tails notes/my as is dumb/note.md",
     "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/game notes for tails' game.md",
