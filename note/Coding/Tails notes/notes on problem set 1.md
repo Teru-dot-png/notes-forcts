@@ -1,3 +1,4 @@
 links:[[Computer science cs50]][[summary lec 1]]
 
-- [ ] piramid increasing as y
+- [ ] piramid increasing as you go down
+- [ ] function for
