@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/notes on problem set 1.md",
+            "file": "Coding/Tails notes/my as is dumb/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/notes on problem set 1.md",
+                "file": "Coding/Tails notes/my as is dumb/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/Tails notes/my as is dumb/Untitled.md",
     "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/game notes for tails' game.md",
@@ -105,7 +106,6 @@
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
     "Coding/colab notes/cs50allmindnotes/cs50 lec 0/intro summary lec 0.md",
     "misc storage/lowbraincell.md",
-    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "misc storage/GH.md"
+    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md"
   ]
 }
