@@ -27,7 +27,8 @@ tags: #misc
 - [ ] Brooklyn 99
 - [ ] All Saints Street
 - [ ] dyson sphere game
-- [ ] s
+- [ ] space patroll luluco
+- [ ] 
 
 
 
