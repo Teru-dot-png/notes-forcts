@@ -85,3 +85,4 @@ i even did a little terminal inside the game! i made(tails)
 ![[Pasted image 20220128011925.png]]
 ![[Pasted image 20220128013158.png]]
 ![[Pasted image 20220128013423.png]]
+![[Pasted image 20220128013523.png]]
