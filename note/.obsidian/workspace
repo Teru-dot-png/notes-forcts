@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/remenber git.md",
+            "file": "misc storage/lowbraincell.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "misc storage/lowbraincell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "156f6089c603d312",
+  "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "misc storage/lowbraincell.md",
+    "misc storage/GH.md",
+    "[Mario].md",
+    "misc storage/Week 0 Scratch Projects.md",
     "Coding/Tails notes/remenber git.md",
+    "conflict-files-obsidian-git.md",
     "Coding/colab notes/TODO.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/study time when.md",
-    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
-    "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
-    "Coding/Tails notes/tails' notes.md",
-    "Coding/Tails notes/notes on problem set 1.md",
-    "misc storage/lowbraincell.md"
+    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md"
   ]
 }
