@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +109,12 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "misc storage/lowbraincell.md",
     "misc storage/GH.md",
     "[Mario].md",
     "misc storage/Week 0 Scratch Projects.md",
     "Coding/Tails notes/remenber git.md",
-    "conflict-files-obsidian-git.md",
     "Coding/colab notes/TODO.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/study time when.md",
