@@ -26,7 +26,7 @@ tags: #misc
 - [ ] Community
 - [ ] Brooklyn 99
 - [x] All Saints Street
-- [ ] dyson sphere game
+- [ ] dyson sphere game(watch)
 - [ ] space patroll luluco
 - [ ] flip flappers
 - [ ] starwars visions
