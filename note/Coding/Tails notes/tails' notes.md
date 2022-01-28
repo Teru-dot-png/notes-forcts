@@ -73,3 +73,18 @@ i even did a little terminal inside the game! i made(tails)
     -   `*` for multiplication
     -   `/` for division
     -   `%` for remainder
+
+
+
+
+![[Pasted image 20220128011129.png]]
+![[Pasted image 20220128011155.png]]
+![[Pasted image 20220128011216.png]]
+![[Pasted image 20220128011526.png]]
+![[Pasted image 20220128011722.png]]
+![[Pasted image 20220128011925.png]]
+![[Pasted image 20220128013158.png]]
+![[Pasted image 20220128013423.png]]
+![[Pasted image 20220128013523.png]]
+![[Pasted image 20220128013735.png]]
+![[Pasted image 20220128014314.png]]

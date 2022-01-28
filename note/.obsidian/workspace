@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/colab notes/TODO.md",
+            "file": "Coding/Tails notes/remenber git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "156f6089c603d312",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,16 +107,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0320025f6d637065",
+  "active": "156f6089c603d312",
   "lastOpenFiles": [
-    "Coding/colab notes/TODO.md",
     "conflict-files-obsidian-git.md",
+    "Coding/Tails notes/remenber git.md",
+    "Coding/colab notes/TODO.md",
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
     "Coding/Tails notes/tails' notes.md",
-    "Coding/Tails notes/remenber git.md",
     "Coding/Tails notes/notes on problem set 1.md",
     "misc storage/lowbraincell.md"
   ]
