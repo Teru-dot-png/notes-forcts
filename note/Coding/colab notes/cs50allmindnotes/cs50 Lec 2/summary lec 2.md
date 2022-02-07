@@ -1,4 +1,4 @@
-[[INTRO TO CODING WHAT DID WE LEARN]][[]]
+[[INTRO TO CODING WHAT DID WE LEARN]][[Computer science cs50]]
 # [Lecture 2](https://cs50.harvard.edu/x/2022/notes/2/#lecture-2)
 
 -   [Compiling](https://cs50.harvard.edu/x/2022/notes/2/#compiling)
