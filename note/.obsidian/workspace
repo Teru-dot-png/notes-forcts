@@ -4,12 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "0320025f6d637065",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "e29ada64ce700057",
+        "type": "split",
+        "children": [
+          {
+            "id": "0320025f6d637065",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "16ed379ad1313839",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
