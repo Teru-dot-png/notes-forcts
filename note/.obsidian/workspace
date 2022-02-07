@@ -7,8 +7,12 @@
         "id": "0320025f6d637065",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Coding/colab notes/study time when.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,8 +77,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding/colab notes/study time when.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -87,11 +92,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/colab notes/study time when.md",
     "Day Planners/Day Planner-20220206.md",
     "misc storage/lowbraincell.md",
     "misc storage/Week 0 Scratch Projects.md",
@@ -100,7 +105,6 @@
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/remenber git.md",
     "Coding/Tails notes/notes on problem set 1.md",
-    "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md"
+    "Coding/Tails notes/game notes for tails' game.md"
   ]
 }
