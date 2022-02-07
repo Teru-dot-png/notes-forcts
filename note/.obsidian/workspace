@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/colab notes/study time when.md",
+            "file": "Coding/colab notes/TODO.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/study time when.md",
+                "file": "Coding/colab notes/TODO.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -96,6 +96,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/colab notes/TODO.md",
     "Coding/colab notes/study time when.md",
     "Day Planners/Day Planner-20220206.md",
     "misc storage/lowbraincell.md",
@@ -104,7 +105,6 @@
     "[Mario].md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/remenber git.md",
-    "Coding/Tails notes/notes on problem set 1.md",
-    "Coding/Tails notes/game notes for tails' game.md"
+    "Coding/Tails notes/notes on problem set 1.md"
   ]
 }
