@@ -5,8 +5,8 @@ we will be studying 3 days a week
 ![[Pasted image 20220114170351.png]]
 - [x] Sunday
 - [x] Monday
-- [ ] Tuesday
-- [x] Wensday
+- [x] Tuesday
+- [ ] Wensday
 - [ ] Thursday
 - [ ] Friday
 - [ ] Saturday
