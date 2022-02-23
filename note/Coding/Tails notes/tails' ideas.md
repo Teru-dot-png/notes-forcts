@@ -10,7 +10,7 @@ the events are listed with special characters listed below
 
 - Ω : The end of everything
 - Δ : The merge of one or more stories with the main "α"
-- Ψ : 
+- Ψ : The dive
 - Θ
 - λ
 - β
