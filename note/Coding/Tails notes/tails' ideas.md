@@ -20,4 +20,4 @@ the events are listed with special characters listed below
 
 # α the beguining
 
-x1 is born its intelligen
+x1 is born its intelligence is equal to a cat that 
