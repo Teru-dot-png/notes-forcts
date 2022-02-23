@@ -25,4 +25,4 @@ while this Concious dossent processes its E.e.m needs its comparable to talking 
 half awake mind.
 
 #Ψβ
- 
+  x1 is copied for 
