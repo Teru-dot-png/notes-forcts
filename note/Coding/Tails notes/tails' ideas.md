@@ -8,4 +8,4 @@ The subject is stuck inside the virtual machine
 
 the events are listed with special characters listed below
 
-- 
+- ΩΔΨΘλβα
