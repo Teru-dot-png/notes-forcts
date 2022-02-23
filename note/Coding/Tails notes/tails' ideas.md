@@ -4,5 +4,6 @@
 
 the event deltaTetha
 
-The subject is stuck inside the machiine
+The subject is stuck inside the  virtual machine
 
+t
