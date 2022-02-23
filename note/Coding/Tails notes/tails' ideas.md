@@ -8,8 +8,8 @@ The subject is stuck inside the virtual machine
 
 the events are listed with special characters listed below
 
-- Ω : the end of everything
-- Δ : 
+- Ω : The end of everything
+- Δ : The
 - Ψ
 - Θ
 - λ
