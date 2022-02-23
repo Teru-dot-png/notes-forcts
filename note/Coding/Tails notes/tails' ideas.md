@@ -4,4 +4,5 @@
 
 the event deltaTetha
 
-The subject 
+The subject is stuck inside the machiine
+
