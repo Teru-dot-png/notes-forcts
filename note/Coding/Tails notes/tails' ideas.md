@@ -14,3 +14,8 @@ the events are listed with special characters listed below
 - λ : The end of one line alone with no merges or side line discoveries
 - β : The inverse side of the current "α"
 - α : The begining of all
+
+
+
+
+# α
