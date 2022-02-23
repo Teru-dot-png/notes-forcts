@@ -12,5 +12,5 @@ the events are listed with special characters listed below
 - Δ : The merge of one or more stories with the main "α"
 - Ψ : The diverging and beguin points of this story line
 - λ : The end of one line alone with no merges or side line discoveries
-- β : The inverse side o
+- β : The inverse side of the current "α"
 - α
