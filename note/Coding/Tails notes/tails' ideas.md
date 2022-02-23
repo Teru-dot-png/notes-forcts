@@ -6,4 +6,6 @@ the event deltaTetha
 
 The subject is stuck inside the virtual machine
 
-the events are listed with special characters listed
+the events are listed with special characters listed below
+
+- 
