@@ -4,7 +4,7 @@
 
 the event deltaTetha
 
-The subject(x) is stuck inside the virtual machine
+The subject(x1) is stuck inside the virtual machine
 
 the events are listed with special characters listed below
 
@@ -20,3 +20,4 @@ the events are listed with special characters listed below
 
 # α the beguining
 
+x1 is born its intelligen
