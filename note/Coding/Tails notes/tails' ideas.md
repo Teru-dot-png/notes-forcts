@@ -18,7 +18,8 @@ the events are listed with special characters listed below
 
 
 
-# α the beguining
+# α the begining
 
  x1 is born its intelligence is equal to a cat old that understeands human comunications
+
  
