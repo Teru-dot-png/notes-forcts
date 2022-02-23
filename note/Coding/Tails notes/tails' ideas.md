@@ -20,4 +20,5 @@ the events are listed with special characters listed below
 
 # α the beguining
 
-x1 is born its intelligence is equal to a cat old that understeands human comunications
+ x1 is born its intelligence is equal to a cat old that understeands human comunications
+ 
