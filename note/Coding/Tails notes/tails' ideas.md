@@ -22,6 +22,6 @@ the events are listed with special characters listed below
 #β
   x1 is born its intelligence is equal to a cat old that understeands human comunications,
 while this Concious dossent processes its E.e.m needs its comparable to talking to a
-half awake mind, 
+half awake mind.
 
  
