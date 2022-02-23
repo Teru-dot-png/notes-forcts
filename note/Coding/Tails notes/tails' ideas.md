@@ -11,7 +11,7 @@ the events are listed with special characters listed below
 - Ω : The end of everything
 - Δ : The merge of one or more stories with the main "α"
 - Ψ : The diverging and beguin points of this story line
-- Θ 
+- Θ :
 - λ
 - β
 - α
