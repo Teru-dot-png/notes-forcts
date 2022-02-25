@@ -26,4 +26,4 @@ half awake mind.
 
 #Ψβ
    x1 is copied for experimental reasons, her copy so called "brother" from dr.henrique,
-we got insane data from making both conscious interact, "brother" had multiple attempts to consume x1 
+we got insane data from making both conscious interact, "brother" had multiple attempts to consume x1, it dossent matter how much  we ress 
