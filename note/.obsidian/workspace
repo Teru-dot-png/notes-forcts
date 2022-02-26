@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "Coding/Tails notes/tails' ideas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "Coding/Tails notes/tails' ideas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "misc storage/lowbraincell.md",
     "Coding/Tails notes/tails' ideas.md",
+    "misc storage/lowbraincell.md",
     "misc storage/Week 0 Scratch Projects.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
