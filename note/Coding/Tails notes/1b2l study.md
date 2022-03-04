@@ -11,5 +11,5 @@ a simple system keeps the nature of a game
 https://www.youtube.com/watch?v=HK28a2Jfec8
 
 
-loot changes and upgrades 
+loot, changes and upgrades 
 
