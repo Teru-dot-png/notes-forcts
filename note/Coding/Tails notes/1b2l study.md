@@ -10,4 +10,4 @@ the complexity from simple makes it so the player keeps on that "dp loop"
 https://www.youtube.com/watch?v=HK28a2Jfec8
 
 
-loot changes and upgra
+loot changes and upgrades 
