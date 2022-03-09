@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Tails notes/tails' notes.md",
+            "file": "Coding/Tails notes/tails' ideas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/tails' notes.md",
+                "file": "Coding/Tails notes/tails' ideas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/Tails notes/tails' ideas.md",
     "Coding/Tails notes/tails' notes.md",
+    "misc storage/GH.md",
+    "misc storage/lowbraincell.md",
     "Coding/Tails notes/1b2l study.md",
     "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/Tails notes/tails' ideas.md",
     "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/Felix notes/FELITO.md",
-    "Pasted image 20220117203457.png",
-    "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
-    "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md"
+    "Pasted image 20220117203457.png"
   ]
 }
