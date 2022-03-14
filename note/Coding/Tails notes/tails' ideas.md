@@ -13,7 +13,7 @@ the events are listed with special characters listed below
 - Ψ : The diverging and beguin points of this story line
 - λ : The end of one line alone with no merges or side line discoveries
 - β : The other visible side of the current "α"
-- α : The begining of all
+- α : The begining of all x1
 
 
 
