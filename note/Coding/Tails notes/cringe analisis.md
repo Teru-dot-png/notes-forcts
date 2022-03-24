@@ -9,7 +9,7 @@ Felix says it dossent matter much about the symptoms
 and also that he loves me verry much <3
 
 symptoms: derailng on conversations and bad management on 
-conversation lead
+conversation lead, self analisis is cring too some how
 
 
 
