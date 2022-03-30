@@ -11,7 +11,10 @@
 
 
 
-references for wardrobe
+## usefull links
+https://www.youtube.com/c/ThePrettyFix/videos
+
+## references for wardrobe
 
 ![[2022-03-26_21-17.png]]
 
