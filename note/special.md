@@ -20,4 +20,4 @@ https://www.youtube.com/c/ThePrettyFix/videos
 
 
 ![[Outfits tips✨.webm]]![[2022-03-26_17-10_2.png]]![[2022-03-26_17-10_1.png]]![[2022-03-26_21-35.png]]![[2022-03-26_17-09_1.png]]![[2022-03-26_17-09.png]]![[2022-03-26_17-09_2.png]]![[2022-03-26_17-10.png]]![[2022-03-28_06-36.png]]![[visual of referennce 1.png]]
-![[Pasted image 20220330143911.png]]
+![[Pasted image 20220330143911.png]]![[Pasted image 20220330145051.png]]
