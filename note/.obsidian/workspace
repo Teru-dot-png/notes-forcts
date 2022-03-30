@@ -7,16 +7,8 @@
         "id": "0320025f6d637065",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "Coding/colab notes/cs50allmindnotes/cs50 lec 4/Untitled.md",
-=======
-            "file": "special.md",
->>>>>>> 42b6f26ade90a2bca55edf0bf857348db3cedfc3
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,11 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Coding/colab notes/cs50allmindnotes/cs50 lec 4/Untitled.md",
-=======
-                "file": "special.md",
->>>>>>> 42b6f26ade90a2bca55edf0bf857348db3cedfc3
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,28 +92,15 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "conflict-files-obsidian-git.md",
+    "Outfits tips✨.webm",
     "Coding/colab notes/cs50allmindnotes/cs50 lec 4/Untitled.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
-    "conflict-files-obsidian-git.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 2/summary lec 2.md",
     "Coding/colab notes/cs50allmindnotes/cs50 lec 0/intro summary lec 0.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Felix notes/FELITO.md",
-    "Coding/Tails notes/notes on problem set 1.md",
-    "Coding/Tails notes/remenber git.md"
-=======
-    "special.md",
-    "misc storage/Week 0 Scratch Projects.md",
-    "misc storage/lowbraincell.md",
-    "Coding/Tails notes/tails' notes.md",
-    "Coding/Tails notes/tails' ideas.md",
-    "Coding/Tails notes/remenber git.md",
-    "Coding/Tails notes/notes on problem set 1.md",
-    "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/colab notes/Computer science cs50.md",
-    "Coding/Tails notes/cringe analisis.md"
->>>>>>> 42b6f26ade90a2bca55edf0bf857348db3cedfc3
+    "Coding/Tails notes/notes on problem set 1.md"
   ]
 }
