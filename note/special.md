@@ -1,6 +1,6 @@
 - [ ]  **I grew my hair!**
 - [ ] **Body hair removal**
-- [ ] **Moisturizer is everything** every day to moisturize my body from head to toe, and I don’t mean just slapping it on in a rush! I really took time to connect with myself
+- [x] **Moisturizer is everything** every day to moisturize my body from head to toe, and I don’t mean just slapping it on in a rush! I really took time to connect with myself
 - [ ] **I painted my nails**
 - [ ] **I practiced my voice**
 - [ ] **I practiced wearing makeup**
