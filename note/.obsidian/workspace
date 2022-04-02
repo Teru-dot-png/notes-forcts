@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "special.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "special.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
-    "misc storage/lowbraincell.md",
     "special.md",
+    "misc storage/lowbraincell.md",
     "5585e8b7b105330527c5cac2a03d85af.jpg",
     "7b264c7385a93de6e4c3d9ad6441d7bb 2.jpg",
     "7b264c7385a93de6e4c3d9ad6441d7bb 1.jpg",
