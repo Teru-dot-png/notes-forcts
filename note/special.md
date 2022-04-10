@@ -1,4 +1,4 @@
-- [ ]  **I grew my hair!**
+![[thigh idaa.png]]- [ ]  **I grew my hair!**
 - [ ] **Body hair removal**
 - [x] **Moisturizer is everything** every day to moisturize my body from head to toe, and I don’t mean just slapping it on in a rush! I really took time to connect with myself
 - [ ] **I painted my nails**
