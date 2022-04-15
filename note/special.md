@@ -23,3 +23,4 @@ https://www.youtube.com/c/ThePrettyFix/videos
 ![[Pasted image 20220330143911.png]]![[Pasted image 20220330145051.png]]![[Pasted image 20220330145227.png]]![[sawdsawd.jpg]]![[Pasted image 20220401001702.png]]![[Pasted image 20220401001713.png]]![[Pasted image 20220401001736.png]]![[thigh idaa 1.png]]
 ![[2022-04-09_10-31 1.png]]
 ![[2022-04-13_01-48.png]]
+![[Pasted image 20220415083034.png]]
