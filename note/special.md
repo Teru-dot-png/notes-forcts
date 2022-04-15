@@ -6,7 +6,8 @@
 - [ ] **I practiced wearing makeup**
 - [ ] **I started my wardrobe**
 - [x] **Eat well and exercise**
-- [ ] need trans pan
+- [ ] need trans panties
+- [ ] want to tone my bon
 
 
 
