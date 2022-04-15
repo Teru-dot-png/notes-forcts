@@ -5,7 +5,7 @@
 - [ ] **I practiced my voice**
 - [ ] **I practiced wearing makeup**
 - [ ] **I started my wardrobe**
-- [ ] **Eat well and exercise**
+- [x] **Eat well and exercise**
 
 
 
