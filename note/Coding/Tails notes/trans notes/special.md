@@ -27,3 +27,4 @@ https://www.youtube.com/c/ThePrettyFix/videos
 ![[2022-04-09_10-31 1.png]]
 ![[2022-04-13_01-48.png]]
 ![[Pasted image 20220415083034.png]]
+
