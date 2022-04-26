@@ -28,3 +28,4 @@ https://www.youtube.com/c/ThePrettyFix/videos
 ![[2022-04-13_01-48.png]]
 ![[Pasted image 20220415083034.png]]
 
+![[jeans top.png]]
