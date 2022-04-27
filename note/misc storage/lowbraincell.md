@@ -33,7 +33,8 @@ tags: #misc
 - [ ] bookworm
 - [ ] gravity falls
 - [ ] and moonknight
-- [ ] tanya the evil
+- [ ] Iruma-kun
+- [ ] Tanya the evil
 
 
 
