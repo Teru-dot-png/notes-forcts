@@ -1,7 +1,6 @@
 tags: #misc
 
 
-- [x] borderlands
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
 - [ ] god eater 2
@@ -12,11 +11,6 @@ tags: #misc
 - [ ] The Ascent
 - [ ] asstroneer
 - [ ] wargroove
-- [x] made in abyss(FINISHED)
-- [x] UNSIGHTED(FINISHED?)
-- [x] Lupin III: The First(finished)
-- [x] vrchat
-- [x] monsterhunter rise
 - [ ] thunder tier one
 - [ ] DONT STARVE T MADE IN ABYSS MODS
 - [ ] legendary tale
