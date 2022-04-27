@@ -31,7 +31,7 @@ tags: #misc
 - [x] flip flappers
 - [ ] starwars visions
 - [ ] sonny boy
-- [x] vivy
+
 - [ ] Odd Taxi
 - [ ] veloren
 - [ ] shield hero
