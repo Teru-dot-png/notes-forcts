@@ -17,8 +17,8 @@ tags: #misc
 - [x] Lupin III: The First(finished)
 - [ ] legendary tale
 - [ ] stelarris -maybe with adrian-
-- [ ] vrchat
-- [ ] monsterhunter rise
+- [x] vrchat
+- [x] monsterhunter rise
 - [ ] thunder tier one
 - [ ] DONT STARVE T MADE IN ABYSS MODS
 - [x] pantry and stocking wth garther belt
