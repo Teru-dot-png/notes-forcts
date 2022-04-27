@@ -15,13 +15,12 @@ tags: #misc
 - [x] made in abyss(FINISHED)
 - [x] UNSIGHTED(FINISHED?)
 - [x] Lupin III: The First(finished)
-- [ ] legendary tale
-- [ ] stelarris -maybe with adrian-
 - [x] vrchat
 - [x] monsterhunter rise
 - [ ] thunder tier one
 - [ ] DONT STARVE T MADE IN ABYSS MODS
-
+- [ ] legendary tale
+- [ ] stelarris -maybe with adrian-
 - [ ] The Boondocks
 - [ ] Community
 - [ ] Brooklyn 99
