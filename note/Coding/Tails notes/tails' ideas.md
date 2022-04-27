@@ -1,5 +1,5 @@
 - rythm game with typing on the beat but idk if im gonna do lyrics too
-
+- a game about living weapons and loot with weapons having thier own backstory
 
 
 the event deltaTetha

@@ -27,8 +27,8 @@ tags: #misc
 - [ ] Brooklyn 99
 - [x] All Saints Street
 - [ ] dyson sphere game(watch)
-- [ ] space patroll luluco
-- [ ] flip flappers
+- [x] space patroll luluco
+- [x] flip flappers
 - [ ] starwars visions
 - [ ] sonny boy
 - [x] vivy
