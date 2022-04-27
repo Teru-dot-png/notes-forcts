@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "Day Planners/Day Planner-20220330.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "Day Planners/Day Planner-20220330.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220330.md",
     "misc storage/lowbraincell.md",
     "Coding/colab notes/cs50allmindnotes/cs50 lec 4/summary lec 4.md",
     "Coding/colab notes/Computer science cs50.md",
@@ -105,7 +106,6 @@
     "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
     "special.md",
     "misc storage/GH.md",
-    "misc storage/Week 0 Scratch Projects.md",
-    "Day Planners/Day Planner-20220330.md"
+    "misc storage/Week 0 Scratch Projects.md"
   ]
 }
