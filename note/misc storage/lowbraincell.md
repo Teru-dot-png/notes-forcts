@@ -21,7 +21,7 @@ tags: #misc
 - [x] monsterhunter rise
 - [ ] thunder tier one
 - [ ] DONT STARVE T MADE IN ABYSS MODS
-- [x] pantry and stocking wth garther belt
+
 - [ ] The Boondocks
 - [ ] Community
 - [ ] Brooklyn 99

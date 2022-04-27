@@ -2,4 +2,5 @@
 - [x] space patroll luluco
 - [x] flip flappers
 - [x] All Saints Street
-- [ ] - [x] pantry and stocking wth garther belt
+- [x] pantry and stocking wth garther belt
+- [ ] 
