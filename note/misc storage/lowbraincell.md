@@ -39,6 +39,8 @@ tags: #misc
 - [ ] spy x family
 - [ ] aharem chan
 - [ ] komisan
+- [ ] minecraft
+- [ ] love is war
 - [ ] 
 
 
