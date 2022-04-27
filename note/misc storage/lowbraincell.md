@@ -1,7 +1,6 @@
 tags: #misc
 
 
-- [x] borderlands
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
 - [ ] god eater 2
