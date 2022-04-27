@@ -4,3 +4,8 @@
 - [x] All Saints Street
 - [x] pantry and stocking wth garther belt
 - [x] borderlands
+- [x] made in abyss(FINISHED)
+- [x] UNSIGHTED(FINISHED?)
+- [x] Lupin III: The First(finished)
+- [x] vrchat
+- [x] monsterhunter rise
