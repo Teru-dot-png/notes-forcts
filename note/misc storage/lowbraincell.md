@@ -41,7 +41,8 @@ tags: #misc
 - [ ] komisan
 - [ ] minecraft
 - [ ] love is war
-- [ ] 
+- [ ] bookworm
+- [ ] gravity falls
 
 
 
