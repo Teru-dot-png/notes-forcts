@@ -34,7 +34,8 @@ tags: #misc
 - [x] vivy
 - [ ] Odd Taxi
 - [ ] veloren
-- [ ] shield
+- [ ] shield hero
+- [ ] me streaming 
 
 
 
