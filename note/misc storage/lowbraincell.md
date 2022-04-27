@@ -37,7 +37,9 @@ tags: #misc
 - [ ] shield hero
 - [ ] me streaming jump king
 - [ ] spy x family
-- [ ] []
+- [ ] aharem chan
+- [ ] komisan
+- [ ] 
 
 
 
