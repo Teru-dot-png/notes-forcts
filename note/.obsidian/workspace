@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "cb31596700334423",
+    "id": "844a2d85557c15fc",
     "type": "split",
     "children": [
       {
-        "id": "ff7a0220c3f592d1",
+        "id": "0320025f6d637065",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc storage/lowbraincell.md",
+            "file": "Coding/Tails notes/tails' ideas.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "24153bd369f243e2",
+    "id": "3b85f8131ac16488",
     "type": "split",
     "children": [
       {
-        "id": "2bcce7c120ccf4a0",
+        "id": "b0a4622685c9b9a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5928c6380ce14848",
+            "id": "58e1aa5e64800433",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "a6759970dc6afc09",
+            "id": "9e405e5bba47c1c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "0f81afde21abfa68",
+            "id": "fc2a80b20a74d0b7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,22 +64,22 @@
     "width": 300
   },
   "right": {
-    "id": "62ff70adb85bc161",
+    "id": "7b540c1c6c0d0dff",
     "type": "split",
     "children": [
       {
-        "id": "276d88935db12f23",
+        "id": "facbc68ffe0df3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "424ce21e8949b9b2",
+            "id": "d670952c803c8e83",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/lowbraincell.md",
+                "file": "Coding/Tails notes/tails' ideas.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -95,9 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff7a0220c3f592d1",
+  "active": "0320025f6d637065",
   "lastOpenFiles": [
+    "Coding/Tails notes/tails' ideas.md",
     "misc storage/lowbraincell.md",
-    "conflict-files-obsidian-git.md"
+    "misc storage/watched done.md",
+    "Coding/Tails notes/trans notes/special.md",
+    "Coding/Tails notes/trans notes/hair styles.md",
+    "Coding/Tails notes/cringe analisis.md",
+    "Coding/Tails notes/game notes for tails' game.md",
+    "Coding/Tails notes/notes on problem set 1.md",
+    "Coding/Tails notes/remenber git.md",
+    "Coding/Tails notes/tails' notes.md"
   ]
 }
