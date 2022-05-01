@@ -55,12 +55,6 @@ SUXuX3sG:Ketba
 
 
 
--   [](https://oc.cil.li/topic/1836-robot-miner-with-geolyzer/#elControls_8565_menu "More options...")
-
-[Posted March 2, 2019](https://oc.cil.li/topic/1836-robot-miner-with-geolyzer/?do=findComment&comment=8565)
-
-[![lVIijDy.png](https://oc.cil.li/applications/core/interface/imageproxy/imageproxy.php?img=https://i.imgur.com/lVIijDy.png&key=0c48d865c97378358ba9b0c705c1b8d8d6bce16e8a14ee48453de314be281e72)](https://i.imgur.com/lVIijDy.png)
-
 I present you a program for a robot that allows you to mine ore without going down into the caves. Robot, using a geolyzer, can find and mine ore.  
 All features are not yet implemented, so I ask you to test and inform me about a bugs.
 
