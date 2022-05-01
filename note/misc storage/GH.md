@@ -80,7 +80,7 @@ Optional:
 - [ ]  Experience Upgrade
 - [ ]  Chunkloader Upgrade
 - [ ]  Generator Upgrade
--   Enderchest from _EnderStorage_ mod
+- [ ]  Enderchest from _EnderStorage_ mod
 
 Installing:
 
