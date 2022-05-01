@@ -63,8 +63,8 @@ Requirements:
 - [x]   Computer case (tier II or III)
 - [x]  Inventory Upgrade (more the better)
 - [x]  Inventory Controller Upgrade
-- [ ]   Hard Disk Drive
-- [ ]  EEPROM with Lua BIOS
+- [x]   Hard Disk Drive
+- [x]  EEPROM with Lua BIOS
 - [ ]  Geolyzer
 - [ ]  RAM (tier I or higher)
 - [ ] CPU (any)
