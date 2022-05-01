@@ -73,7 +73,7 @@ Requirements:
 
 Optional:
 
-- [ ]  Crafting Upgrade
+- [x]  Crafting Upgrade
 - [ ]  Wireless Network Card or Linked Card
 - [ ]  Solar Generator Upgrade
 - [ ]  Battery Upgrade
