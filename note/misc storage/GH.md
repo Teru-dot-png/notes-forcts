@@ -73,13 +73,13 @@ Requirements:
 
 Optional:
 
--   Crafting Upgrade
--   Wireless Network Card or Linked Card
--   Solar Generator Upgrade
--   Battery Upgrade
--   Experience Upgrade
--   Chunkloader Upgrade
--   Generator Upgrade
+- [ ]  Crafting Upgrade
+- [ ]  Wireless Network Card or Linked Card
+- [ ]  Solar Generator Upgrade
+- [ ]  Battery Upgrade
+- [ ]  Experience Upgrade
+- [ ]  Chunkloader Upgrade
+- [ ]  Generator Upgrade
 -   Enderchest from _EnderStorage_ mod
 
 Installing:
