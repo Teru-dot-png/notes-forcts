@@ -76,7 +76,7 @@ Optional:
 - [x]  Crafting Upgrade
 - [x]  Wireless Network Card or Linked Card
 - [x]  Solar Generator Upgrade
-- [ ]  Battery Upgrade
+- [x]  Battery Upgrade
 - [ ]  Experience Upgrade
 - [ ]  Chunkloader Upgrade
 - [ ]  Generator Upgrade
