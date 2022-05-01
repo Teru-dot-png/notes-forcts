@@ -60,16 +60,16 @@ All features are not yet implemented, so I ask you to test and inform me about a
 
 Requirements:
 
-- [ ]   Computer case (tier II or III)
-- [ ]  Inventory Upgrade (more the better)
-- [ ]  Inventory Controller Upgrade
-- [ ]   Hard Disk Drive
-- [ ]  EEPROM with Lua BIOS
-- [ ]  Geolyzer
-- [ ]  RAM (tier I or higher)
-- [ ] CPU (any)
-- [ ]  Hover Upgrade (tier I)
-- [ ]  Diamond pickaxe or equivalent tool
+- [x]   Computer case (tier II or III)
+- [x]  Inventory Upgrade (more the better)
+- [x]  Inventory Controller Upgrade
+- [x]   Hard Disk Drive
+- [x]  EEPROM with Lua BIOS
+- [x]  Geolyzer
+- [x]  RAM (tier I or higher)
+- [x] CPU (any)
+- [x]  Hover Upgrade (tier I)
+- [x]  Diamond pickaxe or equivalent tool
 
 Optional:
 
