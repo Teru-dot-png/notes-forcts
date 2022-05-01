@@ -65,7 +65,7 @@ Requirements:
 - [x]  Inventory Controller Upgrade
 - [x]   Hard Disk Drive
 - [x]  EEPROM with Lua BIOS
-- [ ]  Geolyzer
+- [x]  Geolyzer
 - [ ]  RAM (tier I or higher)
 - [ ] CPU (any)
 - [ ]  Hover Upgrade (tier I)
