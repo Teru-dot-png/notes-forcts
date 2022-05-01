@@ -61,8 +61,8 @@ All features are not yet implemented, so I ask you to test and inform me about a
 Requirements:
 
 - [x]   Computer case (tier II or III)
-- [ ]  Inventory Upgrade (more the better)
-- [ ]  Inventory Controller Upgrade
+- [x]  Inventory Upgrade (more the better)
+- [x]  Inventory Controller Upgrade
 - [ ]   Hard Disk Drive
 - [ ]  EEPROM with Lua BIOS
 - [ ]  Geolyzer
