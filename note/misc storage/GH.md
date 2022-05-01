@@ -78,7 +78,7 @@ Optional:
 - [ ]  Solar Generator Upgrade
 - [x]  Battery Upgrade
 - [ ]  Experience Upgrade
-- [x]  Chunkloader Upgrade
+- [ ]  Chunkloader Upgrade
 - [ ]  Generator Upgrade
 - [ ]  Enderchest from _EnderStorage_ mod
 
