@@ -67,9 +67,9 @@ Requirements:
 - [x]  EEPROM with Lua BIOS
 - [x]  Geolyzer
 - [x]  RAM (tier I or higher)
-- [ ] CPU (any)
-- [ ]  Hover Upgrade (tier I)
-- [ ]  Diamond pickaxe or equivalent tool
+- [x] CPU (any)
+- [x]  Hover Upgrade (tier I)
+- [x]  Diamond pickaxe or equivalent tool
 
 Optional:
 
