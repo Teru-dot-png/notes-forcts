@@ -6,9 +6,9 @@
 - [ ] **I painted my nails**
 - [ ] **I practiced my voice**
 - [ ] **I practiced wearing makeup**
-- [ ] **I started my wardrobe**
+- [x] **I started my wardrobe**
 - [x] **Eat well and exercise**
-- [ ] need trans panties
+- [x] need trans panties
 - [ ] want to tone my body better to look feminine
 
 
