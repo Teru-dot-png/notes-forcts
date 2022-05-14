@@ -1,6 +1,7 @@
 - rythm game with typing on the beat but idk if im gonna do lyrics too
 - a game about living weapons and loot with weapons having thier own backstory
 - a surgery scene on the robot game im makin(main one), hearts are represented by a heart on a screen
+- 
 
 
 
