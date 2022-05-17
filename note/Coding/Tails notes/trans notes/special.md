@@ -30,3 +30,5 @@ https://www.youtube.com/c/ThePrettyFix/videos
 ![[Pasted image 20220415083034.png]]
 
 ![[jeans top.png]]
+
+![[Pasted image 20220517092001.png]]
