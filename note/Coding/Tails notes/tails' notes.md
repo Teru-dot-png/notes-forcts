@@ -98,4 +98,4 @@ i even did a little terminal inside the game! i made(tails)
 ![[Pasted image 20220202212501.png]]
 ![[Pasted image 20220203011124.png]]
 ![[Pasted image 20220329235935.png]]
-tomorrow ill have a  data str
+tomorrow ill have a  data structure class
