@@ -27,9 +27,9 @@ tags: #misc
 - [ ] me streaming jump king
 - [ ] spy x family
 - [ ] aharem chan
-- [x] komisan
+- [ ] komisan
 - [ ] minecraft
-- [ ] love is war
+- [x] love is war
 - [ ] bookworm
 - [ ] gravity falls
 - [ ] and moonknight
