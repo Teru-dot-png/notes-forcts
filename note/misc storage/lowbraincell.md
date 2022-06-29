@@ -15,7 +15,7 @@ tags: #misc
 - [ ] DONT STARVE T MADE IN ABYSS MODS
 - [ ] legendary tale
 - [ ] stelarris -maybe with adrian-
-- [ ] The Boondocks
+- [x] The Boondocks
 - [ ] Community
 - [x] Brooklyn 99
 - [ ] dyson sphere game(watch)
