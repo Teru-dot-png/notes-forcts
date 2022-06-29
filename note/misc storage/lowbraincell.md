@@ -21,7 +21,7 @@ tags: #misc
 - [ ] dyson sphere game(watch)
 - [ ] starwars visions
 - [ ] sonny boy
-- [ ] Odd Taxi
+- [x] Odd Taxi
 - [ ] veloren
 - [ ] shield hero
 - [ ] me streaming jump king
