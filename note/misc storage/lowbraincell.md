@@ -17,7 +17,7 @@ tags: #misc
 - [ ] stelarris -maybe with adrian-
 - [ ] The Boondocks
 - [ ] Community
-- [ ] Brooklyn 99
+- [x] Brooklyn 99
 - [ ] dyson sphere game(watch)
 - [ ] starwars visions
 - [ ] sonny boy
@@ -35,7 +35,6 @@ tags: #misc
 - [ ] and moonknight
 - [x] Iruma-kun
 - [ ] Tanya the evil
-- [ ] COMMUNITY
 - [ ] MECHWARRIOR 5
 - [ ] MAYBE MADNESS
 - [ ] 
