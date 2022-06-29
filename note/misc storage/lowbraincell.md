@@ -27,7 +27,7 @@ tags: #misc
 - [ ] me streaming jump king
 - [ ] spy x family
 - [ ] aharem chan
-- [ ] komisan
+- [x] komisan
 - [ ] minecraft
 - [ ] love is war
 - [ ] bookworm
