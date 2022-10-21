@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0320025f6d637065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Tails notes/tails' ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "576e1dc88b7dfd3f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,12 +108,12 @@
   },
   "active": "576e1dc88b7dfd3f",
   "lastOpenFiles": [
+    "Coding/Tails notes/tails' ideas.md",
+    "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 2/summary lec 2.md",
-    "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
     "misc storage/lowbraincell.md",
     "misc storage/Untitled.md",
-    "Coding/Tails notes/tails' ideas.md",
     "misc storage/GH.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/notes on problem set 1.md",
