@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "844a2d85557c15fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde4276b627cdbb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0320025f6d637065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Tails notes/tails' ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576e1dc88b7dfd3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b85f8131ac16488",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a4622685c9b9a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e1aa5e64800433",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e405e5bba47c1c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc2a80b20a74d0b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193
+  },
+  "right": {
+    "id": "7b540c1c6c0d0dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "facbc68ffe0df3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d670952c803c8e83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/Tails notes/tails' ideas.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "576e1dc88b7dfd3f",
+  "lastOpenFiles": [
+    "Coding/Tails notes/tails' notes.md",
+    "Coding/Tails notes/tails' ideas.md",
+    "Coding/Tails notes/notes on problem set 1.md",
+    "Coding/Tails notes/game notes for tails' game.md",
+    "Coding/Tails notes/concaccocticacnated.md",
+    "Coding/Tails notes/trans notes/special.md",
+    "Coding/Tails notes/my as is dumb/note.md",
+    "Coding/Felix notes/FELITO.md",
+    "Coding/colab notes/TODO.md",
+    "Coding/colab notes/study time when.md"
+  ]
+}
