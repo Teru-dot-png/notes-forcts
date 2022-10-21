@@ -23,9 +23,11 @@
             "id": "576e1dc88b7dfd3f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "misc storage/GH.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/tails' ideas.md",
+                "file": "misc storage/GH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
