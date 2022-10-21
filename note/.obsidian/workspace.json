@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc storage/GH.md",
+                "file": "misc storage/lowbraincell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32303c0bfa79dfaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc storage/GH.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,8 +131,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "576e1dc88b7dfd3f",
+  "active": "32303c0bfa79dfaa",
   "lastOpenFiles": [
+    "misc storage/lowbraincell.md",
+    "misc storage/GH.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/tails' ideas.md",
     "Coding/Tails notes/notes on problem set 1.md",
@@ -128,8 +142,6 @@
     "Coding/Tails notes/concaccocticacnated.md",
     "Coding/Tails notes/trans notes/special.md",
     "Coding/Tails notes/my as is dumb/note.md",
-    "Coding/Felix notes/FELITO.md",
-    "Coding/colab notes/TODO.md",
-    "Coding/colab notes/study time when.md"
+    "Coding/Felix notes/FELITO.md"
   ]
 }
