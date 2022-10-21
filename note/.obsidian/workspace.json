@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
+                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
+                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "576e1dc88b7dfd3f",
   "lastOpenFiles": [
+    "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 2/summary lec 2.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
     "misc storage/lowbraincell.md",
@@ -129,7 +130,6 @@
     "misc storage/GH.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/notes on problem set 1.md",
-    "Coding/Tails notes/game notes for tails' game.md",
-    "Coding/Tails notes/concaccocticacnated.md"
+    "Coding/Tails notes/game notes for tails' game.md"
   ]
 }
