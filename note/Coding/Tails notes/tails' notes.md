@@ -75,27 +75,4 @@ i even did a little terminal inside the game! i made(tails)
     -   `%` for remainder
 
 
-
-
-![[Pasted image 20220128011129.png]]
-![[Pasted image 20220128011155.png]]
-![[Pasted image 20220128011216.png]]
-![[Pasted image 20220128011526.png]]
-![[Pasted image 20220128011722.png]]
-![[Pasted image 20220128011925.png]]
-![[Pasted image 20220128013158.png]]
-![[Pasted image 20220128013423.png]]
-![[Pasted image 20220128013523.png]]
-![[Pasted image 20220128013735.png]]
-![[Pasted image 20220128014314.png]]
-![[Pasted image 20220202210401.png]]
-![[Pasted image 20220202210429.png]]
-![[Pasted image 20220202210526.png]]
-![[Pasted image 20220202210815.png]]
-![[Pasted image 20220202210840.png]]
-![[Pasted image 20220202212129.png]]
-![[Pasted image 20220202212209.png]]
-![[Pasted image 20220202212501.png]]
-![[Pasted image 20220203011124.png]]
-![[Pasted image 20220329235935.png]]
 tomorrow ill have a  data structure class
