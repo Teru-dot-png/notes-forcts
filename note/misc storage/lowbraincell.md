@@ -40,6 +40,7 @@ i want a excuse to play:
 - [ ] Tanya the evil
 - [ ] MECHWARRIOR 5
 - [ ] MAYBE MADNESS
+- [ ] tales from tiny tina
 - [ ] 
 
 
