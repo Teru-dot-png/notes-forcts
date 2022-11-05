@@ -1,7 +1,7 @@
 - [x]  **I grew my hair!**
   - [x] more growing neeeded, so i need to go to hair salloon tomorrow
   - [ ] grow it more!
-- [ ] **Body hair removal**
+- [x] **Body hair removal**
 - [x] **Moisturizer is everything** every day to moisturize my body from head to toe, and I don’t mean just slapping it on in a rush! I really took time to connect with myself
 - [x] **I painted my nails**
 - [ ] **I practiced my voice**
