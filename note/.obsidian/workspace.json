@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Tails notes/trans notes/hair styles.md",
+                "file": "Coding/Tails notes/trans notes/special.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/trans notes/hair styles.md",
+                "file": "Coding/Tails notes/trans notes/special.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
+    "Coding/Tails notes/trans notes/hair styles.md",
+    "Coding/Tails notes/my as is dumb/note.md",
     "Coding/Tails notes/trans notes/special.md",
     "Coding/Tails notes/remenber git.md",
     "Coding/Tails notes/tails' ideas.md",
@@ -112,8 +114,6 @@
     "Coding/Tails notes/todo on tails's scrach game.md",
     "misc storage/watched done.md",
     "misc storage/Untitled.md",
-    "misc storage/lowbraincell.md",
-    "Pasted image 20221105102839.png.md",
-    "misc storage/Week 0 Scratch Projects.md"
+    "misc storage/lowbraincell.md"
   ]
 }
