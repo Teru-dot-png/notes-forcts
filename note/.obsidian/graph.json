@@ -18,7 +18,7 @@
       "query": "path:\"Coding/colab notes\"",
       "color": {
         "a": 1,
-        "rgb": 8183890
+        "rgb": 65459
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 8.54166666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1772871647673661,
+  "scale": 0.6210016736106427,
   "close": false
 }
