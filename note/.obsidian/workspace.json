@@ -11,9 +11,11 @@
             "id": "0a63b751df31316d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5a17bb31ff96b67cd076ad96-large.jpg"
+                "file": "misc storage/lowbraincell.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5a17bb31ff96b67cd076ad96-large.jpg",
+                "file": "misc storage/lowbraincell.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,15 +105,15 @@
   },
   "active": "0a63b751df31316d",
   "lastOpenFiles": [
+    "misc storage/Untitled.md",
+    "[Mario].md",
+    "5a17bb31ff96b67cd076ad96-large.jpg",
     "Coding/Tails notes/trans notes/special.md",
     "Coding/Tails notes/trans notes/hair styles.md",
     "Coding/Tails notes/my as is dumb/note.md",
     "Coding/Felix notes/FELITO.md",
     "Day Planners/Day Planner-20220330.md",
     "misc storage/GH.md",
-    "misc storage/lowbraincell.md",
-    "misc storage/Untitled.md",
-    "misc storage/watched done.md",
-    "misc storage/Week 0 Scratch Projects.md"
+    "misc storage/lowbraincell.md"
   ]
 }
