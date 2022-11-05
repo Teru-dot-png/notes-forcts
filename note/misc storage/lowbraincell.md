@@ -3,6 +3,9 @@ tags: #misc
 i want a excuse to play:
 ![[Pasted image 20221105102728.png]]
 
+
+
+
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
 - [ ] god eater 2
