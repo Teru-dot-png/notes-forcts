@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16711880
       }
+    },
+    {
+      "query": "path:\"Coding/Tails notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
     }
   ],
   "collapse-display": false,
