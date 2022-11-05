@@ -18,7 +18,14 @@
       "query": "path:\"Coding/colab notes\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 8183890
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
