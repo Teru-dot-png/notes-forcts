@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
+                "file": "Pasted image 20220202210401.png.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
+                "file": "Pasted image 20220202210401.png.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
+    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
     "Coding/Felix notes/FELITO.md",
     "misc storage/Untitled.md",
     "misc storage/Week 0 Scratch Projects.md",
@@ -113,7 +114,6 @@
     "Coding/colab notes/Computer science cs50.md",
     "Coding/colab notes/study time when.md",
     "Coding/colab notes/TODO.md",
-    "Coding/Tails notes/todo on tails's scrach game.md",
-    "Coding/Tails notes/tails' ideas.md"
+    "Coding/Tails notes/todo on tails's scrach game.md"
   ]
 }
