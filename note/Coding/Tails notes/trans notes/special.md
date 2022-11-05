@@ -1,7 +1,6 @@
-- [x]  **I grew my hair!**
-  - [x] more growing neeeded, so i need to go to hair salloon tomorrow
+
   - [ ] grow it more!
-- **
+
 - [ ] **I practiced wearing makeup**
 
 - [ ] want to tone my body better to look feminine
