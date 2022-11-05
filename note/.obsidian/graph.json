@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Coding/Felix notes\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16711880
       }
     }
   ],
