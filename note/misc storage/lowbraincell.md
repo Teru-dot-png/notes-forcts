@@ -1,5 +1,7 @@
 tags: #misc
 
+i want a excuse to play
+
 
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
