@@ -1,14 +1,9 @@
 - [x]  **I grew my hair!**
   - [x] more growing neeeded, so i need to go to hair salloon tomorrow
   - [ ] grow it more!
-- [x] **Body hair removal**
-- [x] **Moisturizer is everything** every day to moisturize my body from head to toe, and I don’t mean just slapping it on in a rush! I really took time to connect with myself
-- [x] **I painted my nails**
-- [ ] **I practiced my voice**
+- **
 - [ ] **I practiced wearing makeup**
-- [x] **I started my wardrobe**
-- [x] **Eat well and exercise**
-- [x] need trans panties
+
 - [ ] want to tone my body better to look feminine
 
 
