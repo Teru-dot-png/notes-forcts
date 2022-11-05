@@ -1,5 +1,20 @@
 tags: #misc
 
+
+
+minecraft with space mods
+
+Astroneer
+
+Daemon x Machina
+
+# streammables
+
+jumpknight
+
+or felix metal gear rising
+
+
 i want a excuse to play:
 
 - [ ] you gonna play gamin seat omori
