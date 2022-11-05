@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Tails notes/tails' ideas.md",
+                "file": "Coding/Tails notes/todo on tails's scrach game.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ψβ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/tails' ideas.md",
+                "file": "Coding/Tails notes/todo on tails's scrach game.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,8 +105,8 @@
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
-    "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/tails' ideas.md",
+    "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/remenber git.md",
     "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/game notes for tails' game.md",
