@@ -11,12 +11,8 @@
             "id": "5ac4fc33144324cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Tails notes/notes on problem set 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/notes on problem set 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
+    "Coding/colab notes/Computer science cs50.md",
+    "Coding/colab notes/cs50allmindnotes/INTRO TO CODING WHAT DID WE LEARN.md",
+    "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/Tails notes/tails' ideas.md",
     "Coding/Tails notes/remenber git.md",
-    "Coding/Tails notes/notes on problem set 1.md",
     "Coding/Tails notes/game notes for tails' game.md",
     "Coding/Tails notes/cringe analisis.md",
-    "Coding/Tails notes/trans notes/special.md",
-    "Coding/Tails notes/trans notes/hair styles.md",
-    "Coding/Tails notes/my as is dumb/note.md"
+    "Coding/Tails notes/trans notes/special.md"
   ]
 }
