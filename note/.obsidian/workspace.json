@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Tails notes/trans notes/special.md",
+                "file": "Coding/Tails notes/trans notes/hair styles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/trans notes/special.md",
+                "file": "Coding/Tails notes/trans notes/hair styles.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
+    "Coding/Tails notes/trans notes/special.md",
     "Coding/Tails notes/remenber git.md",
     "Coding/Tails notes/tails' ideas.md",
     "Coding/Tails notes/tails' notes.md",
@@ -113,7 +114,6 @@
     "misc storage/Untitled.md",
     "misc storage/lowbraincell.md",
     "Pasted image 20221105102839.png.md",
-    "misc storage/Week 0 Scratch Projects.md",
-    "[Mario].md"
+    "misc storage/Week 0 Scratch Projects.md"
   ]
 }
