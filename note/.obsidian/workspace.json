@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c59c9bc839c1b05",
+        "id": "fbfbb8beca471c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5a0ed787051e7f",
+            "id": "5ac4fc33144324cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pasted image 20221105102839.png.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221105102839.png.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,10 +98,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf5a0ed787051e7f",
+  "active": "58e1aa5e64800433",
   "lastOpenFiles": [
-    "misc storage/Week 0 Scratch Projects.md",
     "Pasted image 20221105102839.png.md",
+    "misc storage/Week 0 Scratch Projects.md",
     "misc storage/lowbraincell.md",
     "misc storage/Untitled.md",
     "[Mario].md",
