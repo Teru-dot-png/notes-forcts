@@ -11,8 +11,12 @@
             "id": "5ac4fc33144324cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "misc storage/lowbraincell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "misc storage/lowbraincell.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58e1aa5e64800433",
+  "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
     "Pasted image 20221105102839.png.md",
     "misc storage/Week 0 Scratch Projects.md",
