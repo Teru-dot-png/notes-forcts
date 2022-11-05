@@ -6,8 +6,6 @@
 
 
 
-
-
 ## usefull links
 https://www.youtube.com/c/ThePrettyFix/videos
 
