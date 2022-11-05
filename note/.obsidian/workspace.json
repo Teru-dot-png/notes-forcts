@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fde4276b627cdbb2",
+        "id": "ced90ded8f23ce79",
         "type": "tabs",
         "children": [
           {
-            "id": "576e1dc88b7dfd3f",
+            "id": "0a63b751df31316d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,10 +101,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "576e1dc88b7dfd3f",
+  "active": "0a63b751df31316d",
   "lastOpenFiles": [
-    "Coding/Tails notes/tails' ideas.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 1/summary lec 1.md",
+    "Coding/Tails notes/tails' ideas.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 3/summary lec 3.md",
     "Coding/colab notes/cs50allmindnotes/cs50 Lec 2/summary lec 2.md",
     "misc storage/lowbraincell.md",
