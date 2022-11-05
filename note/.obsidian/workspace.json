@@ -11,12 +11,8 @@
             "id": "5ac4fc33144324cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Tails notes/tails' notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tails notes/tails' notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +100,7 @@
   },
   "active": "5ac4fc33144324cd",
   "lastOpenFiles": [
+    "Coding/Tails notes/tails' notes.md",
     "Coding/Tails notes/todo on tails's scrach game.md",
     "Coding/Tails notes/tails' ideas.md",
     "Coding/Tails notes/remenber git.md",
@@ -113,7 +109,6 @@
     "Coding/Tails notes/cringe analisis.md",
     "Coding/Tails notes/trans notes/special.md",
     "Coding/Tails notes/trans notes/hair styles.md",
-    "Coding/Tails notes/my as is dumb/note.md",
-    "Day Planners/Day Planner-20220330.md"
+    "Coding/Tails notes/my as is dumb/note.md"
   ]
 }
