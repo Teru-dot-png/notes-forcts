@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 1279
       }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
