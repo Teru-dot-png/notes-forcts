@@ -1,9 +1,8 @@
+ - [ ] grow it more!
 
-  - [ ] grow it more!
+ - [ ] **I practiced wearing makeup**
 
-- [ ] **I practiced wearing makeup**
-
-- [ ] want to tone my body better to look feminine
+ - [ ] want to tone my body better to look feminine
 
 
 
