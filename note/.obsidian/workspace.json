@@ -11,8 +11,12 @@
             "id": "5ac4fc33144324cd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "misc storage/lowbraincell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "misc storage/lowbraincell.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
