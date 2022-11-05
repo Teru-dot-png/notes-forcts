@@ -1,7 +1,6 @@
 tags: #misc
 
-i want a excuse to play:ted image 20221105102746.png]]
-![[Pasted image 20221105102804.png]]![[Pasted image 20221105102816.png]]![[Pasted image 20221105102839.png]]
+i want a excuse to play:
 
 - [ ] you gonna play gamin seat omori
 - [ ] lobotomy corporation gamin seats
